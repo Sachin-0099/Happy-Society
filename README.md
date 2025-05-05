@@ -24,7 +24,7 @@ This project showcases society information, services, projects, and testimonials
 - React
 - React Router DOM
 - Tailwind CSS / Custom CSS (depending on your styling choice)
-- HTML5 & CSS3
+
 - Google Fonts
 - SEO basics: `robots.txt`, `sitemap.xml`
 
