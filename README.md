@@ -1,12 +1,36 @@
-# React + Vite
+# 🏡 Happy Society Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, clean, and responsive society landing page built using **React**.  
+This project showcases society information, services, projects, and testimonials — ideal for real estate or residential communities.
 
-Currently, two official plugins are available:
+![Screenshot](./public/screenshot.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 Beautiful UI with real estate-themed design
+- 🧭 Client-side routing using `react-router-dom`
+- 📄 SEO ready: `sitemap.xml` and `robots.txt` included
+- 💬 Testimonials section (carousel-ready)
+- 🏢 Sections for About, Services, Projects, and Clients
+- 📱 Responsive design for all screen sizes
+- 🔗 Footer with useful links and contact options
+
+---
+
+## 🧱 Technologies Used
+
+- React
+- React Router DOM
+- Tailwind CSS / Custom CSS (depending on your styling choice)
+
+- Google Fonts
+- SEO basics: `robots.txt`, `sitemap.xml`
+
+---
+
+## 🚀 Installation
+
+```bash
+npm install
