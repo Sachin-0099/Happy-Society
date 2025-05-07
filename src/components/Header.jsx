@@ -121,7 +121,7 @@ const Header = () => {
 
 
   return (
-    <motion.div className="relative h-screen w-screen overflow-hidden bg-indigo-200">
+    <motion.div className="relative h-screen w-screen overflow-hidden bg-[#83acfe]">
       <h1   style={{ color: "#18a60b" }} className="underline absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-4xl font-bold ">
         HAPPY SOCIETY
       </h1>
