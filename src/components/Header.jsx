@@ -1,9 +1,7 @@
-// App.js
-
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 
-const API_BASE_URL = "http://localhost:4000/api";
+const API_BASE_URL = "https://happy-backend.onrender.com/api";
 
 const positions = [
   { x: "13vw", y: "15vh", top: 0, left: 0, originX: 0, originY: 0 },
