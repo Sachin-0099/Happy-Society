@@ -7,7 +7,7 @@ const Hero = () => {
       aria-label="About Happy Society Section"
     >
       {/* Right side text content */}
-      <div className="w-full md:w-[60%] z-10 flex flex-col justify-center items-start text-left px-6 py-10 md:py-0 md:-mt-20 order-0 md:order-none ml-20">
+      <div className="w-full md:w-[60%] z-10 flex flex-col justify-center items-start text-left px-6 py-10 md:py-0 md:-mt-20 order-0 md:order-none lg:ml-20">
   <h2 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-[#fff] uppercase mb-4 underline">
     Happy <br /> Society
   </h2>
